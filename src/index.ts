@@ -1,5 +1,5 @@
 let vuelta1 = document.getElementById("vuelta1");
-let btnCacular = document.getElementById("btnCalcular");
+let btnCalcular = document.getElementById("btnCalcular");
 let vuelta2 = document.getElementById("vuelta2");
 let vuelta3 = document.getElementById("vuelta3");
 let vuelta4 = document.getElementById("vuelta4");
